@@ -1,7 +1,7 @@
 const contenedorProductos = document.getElementById("productos");
 const inputBusqueda = document.getElementById("busqueda");
 const contenedorCategorias = document.getElementById("categorias");
-//pobre mi gatito alguien lo ha pegado por comeloncito ahora esta llorando ay mi gatito miau miau
+
  
 let Aproductos = [];
 let categoriaSeleccionada = "all";
